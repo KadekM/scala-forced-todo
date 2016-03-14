@@ -1,0 +1,4 @@
+<plugin>
+    <name>forcedtodo</name>
+    <classname>forcedtodo.plugin.RuntimePlugin</classname>
+</plugin>
