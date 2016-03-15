@@ -8,7 +8,7 @@ homepage := Some(url("https://github.com/KadekM/scala-forced-todo"))
 
 organization := "com.marekkadek"
 
-version := "0.0.1"
+version := "0.0.1-SNAPSHOT"
 
 scalaVersion  := "2.11.8"
 

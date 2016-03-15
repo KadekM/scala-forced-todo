@@ -29,11 +29,11 @@ Date format has to be in YEAR-MONTH-DATE, such as in examples.
 ## INSTALLATION
 For scala 2.11
 ```scala
-libraryDependencies += "com.marekkadek" %% "forcedtodo" % "0.0.1" % "provided"
+libraryDependencies += "com.marekkadek" %% "forcedtodo" % "0.0.1-SNAPSHOT" % "provided"
 
 autoCompilerPlugins := true
 
-addCompilerPlugin("com.marekkadek" %% "forcedtodo" % "0.0.1")
+addCompilerPlugin("com.marekkadek" %% "forcedtodo" % "0.0.1-SNAPSHOT")
 ```
 
 For scala 2.10
