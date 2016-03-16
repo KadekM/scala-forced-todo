@@ -6,7 +6,7 @@ by using @todo annotation, which can fail compilation (i.e. if some todo is over
 Useful if you are one of people that prefer working in way of first sketching high level components and their interactions
 before getting down to specific details.
 
-Before using it please understand all implications :) (collaboration with colleagues with different locales,
+__Before using it please understand all implications :)__ (collaboration with colleagues with different locales,
 build server...)
 
 Example:
@@ -41,7 +41,7 @@ For scala 2.10
 "org.scala-lang" % "scala-compiler" % scalaVersion.value % "provided" // needed for 2.10.x only
 ```
 
-TODO:
+## TODO
 - user can specify format of dates TODOs
 - user can specify violating todos should be errors or warnings
 - user can specify what is limit of unresolved TODOs after which it fails to compile (disregarding date)
